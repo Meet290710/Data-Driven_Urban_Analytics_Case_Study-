@@ -1,0 +1,10 @@
+
+WattWatch - Energy Findings & Insights
+
+1. Industrial consumers contribute the highest energy consumption across all zones.
+2. Central and South zones show the highest average power usage and outage frequency.
+3. Weekend peak usage is slightly lower compared to weekdays.
+4. Faulty meters are concentrated in high-consumption areas.
+5. Industrial-heavy zones show the highest estimated billing costs.
+6. East zone demonstrates the best energy efficiency.
+7. Predictive maintenance and smart scheduling can reduce outages.
