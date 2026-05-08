@@ -57,10 +57,8 @@ This project analyzes energy usage patterns across multiple city zones and consu
 
 ## 🖥️ Smart City Energy Dashboard
 
-> Replace the image path below with your uploaded dashboard image filename.
-
 ```md
-![Dashboard Preview](dashboard.png)
+"C:\final project-bcs\Energyfinding_txt_img.png"
 ```
 
 <img width="100%" alt="WattWatch Dashboard" src="dashboard.png">
